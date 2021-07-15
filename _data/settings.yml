@@ -21,4 +21,4 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/NaotoShinohara'}
 
 contacts:
-- {name: 'Naoto Shinohara', email: 'naotos.biod(at)gmail.com', image: "assets/img/profile.jpg"}
+- {name: 'Naoto Shinohara', email: 'naotos.biod(at)gmail.com', image: "./assets/img/profile.jpg"}
