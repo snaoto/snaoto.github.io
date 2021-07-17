@@ -1,6 +1,6 @@
 menu:
 # - {name: 'people', url: '/people'}
-- {name: 'Home', url: "{{ site.github.url }}"}
+- {name: 'Home', url: '{{site.github.url}}'}
 - {name: 'Reseach', url: '/research'}
 - {name: 'Publications', url: '/publications'}
 # - {name: 'courses', url: '/courses'}
