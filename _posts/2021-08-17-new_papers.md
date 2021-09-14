@@ -1,6 +1,4 @@
 ---
 layout: post
-title: "Two new papers published"
+title: "Two new papers published from Oikos and Japanese Journal of Ecology"
 ---
-
-Excited to share that my website has been and launched!!
